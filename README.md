@@ -231,4 +231,4 @@ pip install netCDF4 geopandas
 - **Waterinfo.be** – Flow velocity and tidal water level data (Vlaamse Milieu Maatschappij / De Vlaamse Waterweg)
 - **de Wilde & de Bie (2000)** – Historical N₂O flux measurements on the Schelde estuary
 - **R/V Belgica** – Research vessel providing access to the estuary for the 2023 sampling campaign
-- **SIGMA Plan** – Estuary landscape photo ([sigmaplan.be](https://sigmaplan.be))
+- **Belspo** – RV Belgica Picture
