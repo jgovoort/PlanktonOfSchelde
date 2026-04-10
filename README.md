@@ -2,7 +2,7 @@
 
 A research repository containing data, analysis code, and results on N₂O (nitrous oxide) concentrations, fluxes, and related biogeochemical variables along the **Schelde River Estuary** (Belgium/Netherlands).
 
-![Schelde estuary landscape](https://sigmaplan.be/uploads/2017/10/y86-0148-20170522-656-durmevallei-debunt.jpg)
+![Schelde estuary landscape](https://www.belspo.be/belspo/NewRV/img/theme_01.jpg)
 
 ---
 
